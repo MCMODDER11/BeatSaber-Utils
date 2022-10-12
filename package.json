@@ -1,0 +1,22 @@
+{
+  "name": "beatsaber-utils",
+  "version": "1.0.0",
+  "description": "A discord bot for the mod, BeatSaber-Utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCMODDER11/BeatSaber-Utils.git"
+  },
+  "author": "zr8x",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MCMODDER11/BeatSaber-Utils/issues"
+  },
+  "homepage": "https://github.com/MCMODDER11/BeatSaber-Utils#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
